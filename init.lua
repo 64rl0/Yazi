@@ -1,3 +1,3 @@
--- vim: ft=lua
 -- init.lua
+-- vim: ft=lua
 

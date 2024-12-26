@@ -1,5 +1,5 @@
-# vim: ft=cfg
 # yazi.toml
+# vim: ft=cfg
 
 [manager]
 show_hidden = true
